@@ -1,6 +1,6 @@
 # kosen-junlab
 
-## このOrganizationを作った目的
+## この Organization を作った目的
 
 - 毎年の引き継ぎを楽にするため
   - 毎年のリポジトリが見れる・実行できる
